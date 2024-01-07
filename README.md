@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hey there, I'm oxince! 👋
+# Hey there, I'm clxw1337! 👋
 
 Passionate about **Quality**, **Security**, and **Performance** in software development.
 
@@ -37,6 +37,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 
 ## 🌐 Connect with Me
 
-Discord: oxince1337
+Discord: clxw
 
 </div>
