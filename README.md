@@ -17,7 +17,7 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express" alt="express.js">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind-black-CSS-black?style=for-the-badge&logo=tailwind" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind" alt="Tailwind CSS">
 <img src="https://custom-icon-badges.herokuapp.com/badge/WebSockets-black?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
 <img src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose" alt="mongoose">
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql">
