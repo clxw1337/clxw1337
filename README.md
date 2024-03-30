@@ -2,7 +2,7 @@
 
 # Hey there, I'm clxw1337! 👋
 
-Passionate about **Quality**, **Security**, and **Performance** in software development.
+I'm a german front- & backed developer, passionate about **Quality**, **Security**, and **Performance** in software development.
 
 ## 🔧 Technologies & Frameworks
 
@@ -34,5 +34,6 @@ Passionate about **Quality**, **Security**, and **Performance** in software deve
 ## 🌐 Connect with Me
 
 Discord: clxw
+Mail: maddox@clxw.cc
 
 </div>
