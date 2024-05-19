@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hey there, I'm clxw1337! 👋
+# Hey there, I'm Maddox W.! 👋
 
 I'm a german front- & backed developer, passionate about **Quality**, **Security**, and **Performance** in software development.
 
@@ -33,7 +33,7 @@ I'm a german front- & backed developer, passionate about **Quality**, **Security
 
 ## 🌐 Connect with Me
 
-Discord: clxw
+Discord: mdxwzl
 Mail: maddox@clxw.cc
 
 </div>
